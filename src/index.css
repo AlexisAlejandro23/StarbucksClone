@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --caja-color: #1e3932;
+    --caja-color2: #f2f1f0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: #ffffff;
+}
